@@ -5,3 +5,8 @@ This is demo wokshop repository
 This is our demo project:
 * it does this
 * and this
+
+
+### New Section
+
+This section was created on .dev version of repository
